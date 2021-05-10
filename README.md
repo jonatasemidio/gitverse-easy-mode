@@ -72,3 +72,6 @@ To conclude, how versioning can give you time to live your life and enjoy what y
 ---
 
 # INTERESTING LINKS
+* [Git and Github for beginners / Portuguese youtube playlist ](https://www.youtube.com/watch?v=IBClN6VpJDw&list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
+* [Git and Github in practice / Portuguese youtube video](https://www.youtube.com/watch?v=2alg7MQ6_sI)
+* [Learn git official site / English](https://try.github.io/)
