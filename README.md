@@ -1,7 +1,8 @@
-# gitverse-easy-mode
-Git and Github presentation
+# GITVERSE IN :: [EASY MODE]
+Here is just a short presentation about git and github for begginers
+If you were not on the presentation in LIVE each slide has some description here to help you understand them.
 
-## [Presentation](https://jonatasemidio.github.io/gitverse-easy-mode/)
+* [Presentation](https://jonatasemidio.github.io/gitverse-easy-mode/)
 
 ---
 
